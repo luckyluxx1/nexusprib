@@ -1,0 +1,7 @@
+pymem==1.13.1
+pygame==2.6.0
+requests==2.32.3
+keyboard==0.13.5
+pywin32==306
+numpy==1.26.4
+tkinter  # Built-in
