@@ -1,0 +1,17 @@
+{
+  "version": "4.1.0",
+  "localplayer": 0x118,
+  "playerlist": 0x2A0,
+  "viewmatrix": 0x9A8B7C6,
+  "health": 0x18C,
+  "team": 0x1D8,
+  "pos": 0x12C,
+  "name": 0x108,
+  "walkspeed": 0x3A0,
+  "jumppower": 0x1A8,
+  "velocity": 0x150,
+  "bonematrix": 0x1F0,
+  "patterns": {
+    "localplayer": "48 8B 0D ?? ?? ?? ?? 48 85 C9"
+  }
+}
