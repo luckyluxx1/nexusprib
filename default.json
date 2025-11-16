@@ -1,0 +1,8 @@
+{
+  "esp": {"box": true, "name": true, "health": true, "distance": true, "tracer": false},
+  "aimbot": {"enabled": false, "fov": 90.0, "smooth": 5.0, "bone": "Head", "predict": true},
+  "combat": {"aimlock": false, "triggerbot": false, "trigger_delay": 0.1},
+  "movement": {"speedwalk": false, "fly": false, "noclip": false, "inf_jump": false, "speed": 50.0},
+  "visuals": {"fov_circle": true, "crosshair": true},
+  "autofarm": false
+}
